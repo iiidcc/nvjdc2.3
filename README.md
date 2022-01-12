@@ -51,11 +51,11 @@
 1拉源码
 国内
 ```
-git clone https://ghproxy.com/https://github.com/NolanHzy/nvjdcdocker.git /root/nolanjdc
+git clone https://ghproxy.com/https://github.com/iiidcc/nvjdc2.3.git /root/nolanjdc
 ```
 国外
 ```
-git clone https://github.com/NolanHzy/nvjdcdocker.git /root/nolanjdc
+git clone https://github.com/iiidcc/nvjdc2.3.git /root/nolanjdc
 ```
 
 
@@ -236,11 +236,11 @@ mv /root/nolanjdc /root/nolanjdcdb
 然后执行步骤一 拉取代码
 国内
 ```
-git clone https://ghproxy.com/https://github.com/NolanHzy/nvjdcdocker.git /root/nolanjdc
+git clone https://ghproxy.com/https://github.com/iiidcc/nvjdc2.3.git /root/nolanjdc
 ```
 国外
 ```
-git clone https://github.com/NolanHzy/nvjdcdocker.git /root/nolanjdc
+git clone https://github.com/iiidcc/nvjdc2.3.git /root/nolanjdc
 ```
 
 
